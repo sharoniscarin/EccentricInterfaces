@@ -19,7 +19,7 @@ by Sharon Hsienpu Chen and James Zhou
 ![Spiritum2](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s1.jpg)
 ![Spiritum3](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s3.jpg)
 **Description:**
-Spiritum exists in a near future where reducing our carbon footprint is a necessity. Carbon conscientious individuals can choose to filter the carbon dioxide from their breath before releasing it into the air. Spiritum is a planet based filtration system that soaks up the carbon dioxide from exhalations before releasing it into the atmosphere.
+Spiritum is a plant-based filtration system that soaks up the carbon dioxide from exhalations before releasing it into the atmosphere. It exists in a society where reducing our carbon footprint is a necessity. Carbon-conscientious individuals can choose to filter the carbon dioxide from their breath before releasing it into the air.
 
 @sharoniscarin @flodyssey
 
